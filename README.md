@@ -1,3 +1,3 @@
-## javascript_json_selecao_estado
+### Acesso ao projeto:
 
-### Acesso ao projeto: (https://jeanmoissa.github.io/js_json_selecao_estado/)
+* <a href="https://jeanmoissa.github.io/js_json_selecao_estado/"/>Link para o relógio</a>
